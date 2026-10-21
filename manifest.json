@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydata",
+  "repo": "duck-array-discussion",
+  "versions": [
+    {
+      "commit": "53b035afc8fd74a04717b4b5a34e930c4e45297c",
+      "parsed_at": "2026-10-21T20:46:51.805529+00:00",
+      "filetree": "filetree/53b035afc8fd74a04717b4b5a34e930c4e45297c.nq.gz",
+      "blobs": [
+        "blob/35eab48e59e9ca130dbf64d601839b8ee4e75168.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
