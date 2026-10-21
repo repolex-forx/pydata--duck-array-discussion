@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydata/duck-array-discussion/commit/53b035afc8fd74a04717b4b5a34e930c4e45297c",
       "git:hexsha": "53b035afc8fd74a04717b4b5a34e930c4e45297c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
