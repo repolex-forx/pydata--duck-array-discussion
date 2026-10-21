@@ -1,0 +1,11 @@
+{
+  "org": "pydata",
+  "repo": "duck-array-discussion",
+  "versions": [
+    {
+      "commit": "53b035afc8fd74a04717b4b5a34e930c4e45297c",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:49:09.352613+00:00"
+    }
+  ]
+}
